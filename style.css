@@ -1,0 +1,16 @@
+body{
+    background-image: url("https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png");
+    color: beige;
+    text-align: center;
+    font-size: 25px;
+}
+
+.Contact {
+    font-size: 30px;
+    padding-left: 1000px;
+}
+
+.Projects {
+    font-size: 30px;
+}
+
