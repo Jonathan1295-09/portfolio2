@@ -12,5 +12,16 @@ body{
 
 .Projects {
     font-size: 30px;
+    color: white;
+    padding: auto;
+    margin: 60px;
+    border: 15px solid green;
 }
 
+.link{
+    color: white;
+}
+
+.Links{
+    color: white;
+}
