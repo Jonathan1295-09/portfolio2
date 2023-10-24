@@ -79,7 +79,9 @@ align-items: center;
 
 .skills{
     font-size: 100px;
-    text-shadow: 5px 0px gray
+    font-family: 'Bebas Neue', sans-serif;
+    text-shadow: 10px 0px #F18F01;
+    padding-top: 150px;
 }
 
 .skilllist{
@@ -92,13 +94,13 @@ align-items: center;
 .frontend h1{
     font-size: 80px;
     font-family: 'Bebas Neue', sans-serif;
-    text-shadow: 5px 0px  gray
+    text-shadow: 5px 0px  #FB5012
 }
 
 .backend h1{
     font-size: 80px;
     font-family: 'bebas Neue', sans-serif;
-    text-shadow: 5px 0px gray
+    text-shadow: 5px 0px #FB5012
 }
 
 .Home{
@@ -116,7 +118,8 @@ align-items: center;
 .projects{
     font-size: 80px;
     font-family: 'bebas Neue', sans-serif;
-    text-shadow: 5px 0px gray
+    text-shadow: 5px 0px gray;
+    padding-top: 150px;
 }
 
 .container{
@@ -148,5 +151,4 @@ align-items: center;
     justify-content: space-around;
     padding-top: 100px;
     flex-direction: column;
-
 }
